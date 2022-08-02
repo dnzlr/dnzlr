@@ -17,11 +17,11 @@
 ### Some of my used programming and scripting languages
 
 <p>
-  <a href="https://github.com/search?q=user%3Apiuswalter+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Apiuswalter+C"><img alt="C" src="https://img.shields.io/badge/C-239120?logo=c&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Apiuswalter+LaTeX"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Apiuswalter+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%dnzlr+Python"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+C"><img alt="C" src="https://img.shields.io/badge/C-239120?logo=c&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+LaTeX"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+Python"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### Some of my used fameworks and libraries
