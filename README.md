@@ -19,7 +19,8 @@
 <p>
   <a href="https://github.com/search?q=user%3Adnzlr+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%3Adnzlr+C"><img alt="C" src="https://img.shields.io/badge/C-239120?logo=c&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Adnzlr+LaTeX"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3Adnzlr+C++"><img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge"></a>
+<a href="https://github.com/search?q=user%3Adnzlr+LaTeX"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%3Adnzlr+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%3Adnzlr+Python"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
 </p>
@@ -27,10 +28,11 @@
 ### Some of my used fameworks and libraries
 
 <p>
-  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=numpy&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-045837?logo=opencv&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=numpy&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ### Some of my used software
