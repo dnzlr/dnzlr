@@ -1,6 +1,6 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=B06AF7FF&center=true&lines=SPACE+ENGINEER;MACHINE+LEARNING+DEVELOPER;EMBEDDED+SYSTEMS+ENGINEER;NETWORK+HOBBYIST" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=B06AF7FF&center=true&lines=MACHINE+LEARNING+DEVELOPER;EMBEDDED+SYSTEMS+ENGINEER;NETWORK+HOBBYIST" /></a>
 </p>
 
 <!-- https://github.com/badges/shields -->
