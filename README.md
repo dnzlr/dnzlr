@@ -1,3 +1,6 @@
+<h3 align="center">
+  Let's code!
+</h3>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=B06AF7FF&center=true&lines=MACHINE+LEARNING+DEVELOPER;EMBEDDED+SYSTEMS+ENGINEER;NETWORK+HOBBYIST" /></a>
@@ -5,7 +8,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="left">
-  <a href="https://github.com/dnzlr?tab=repositories"><img alt="All my Repos" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
+  <a href="https://github.com/dnzlr?tab=repositories"><img alt="My Open Source Projects" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
 </p>
 
 
@@ -49,10 +52,10 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ## 👨‍💻 Recent GitHub Activity
-
+<details> 
 <a href="#"><img avlt="My recent GitHub activity" src="https://activity-graph.herokuapp.com/graph?username=dnzlr&bg_color=3d3d3d&color=B06AF7&line=B06AF7&point=ffffff&hide_border=true&area_color=B06AF7&area=true" /></a>
 <br />
-
+</details> 
 ---
 
 Made with ❤️ by **[Pius Walter](https://github.com/piuswalter)** and affectionately stolen by **[jc21](https://github.com/jc21)** and boldly snitched by me.
